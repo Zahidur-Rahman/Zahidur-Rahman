@@ -2,13 +2,14 @@
 
 ## 👨‍💻 About Me
 
-I am an **ERP Developer** and **Backend Developer** at **Progeny Technologies Ltd**, passionate about building robust, scalable solutions. My main areas of expertise include:
+I am an **ERP Developer** and **Backend Developer** at **Progeny Technologies Ltd**, passionate about building robust, scalable solutions and solving complex problems. My main areas of expertise include:
 
 - **Languages:** Python, C++
 - **Frameworks & Tools:** FastAPI, React
 - **Databases:** PostgreSQL (expert), ORM, currently exploring MongoDB
 - **Frontend:** HTML, CSS, React
 - **Current Learning:** Deep diving into MCP, LangGraph, and Langchain to build advanced AI agents
+- **Problem Solving:** Enthusiastic problem solver, with a track record of tackling and solving many challenging problems during my university life
 
 I played a pivotal role in architecting and developing the **Manufacturing Module** for **Runner Motors Limited** as part of their ERP system, delivering end-to-end solutions tailored for the automotive manufacturing process.
 
