@@ -1,60 +1,53 @@
-# Hi there, I'm Zahidur Rahman 👋
+Hi there, I'm Zahidur Rahman 👋
 
-## 👨‍💻 About Me
+About Me
+I am a passionate Backend Developer and AI enthusiast with a knack for building robust, scalable solutions and tackling complex challenges. Currently, I am a Backend Developer at Progeny Technologies Ltd, where I specialize in creating innovative systems and solving problems with code.
 
-I am an **ERP Developer** and **Backend Developer** at **Progeny Technologies Ltd**, passionate about building robust, scalable solutions and solving complex problems. My main areas of expertise include:
+My main areas of expertise include:
 
-- **Languages:** Python, C++
-- **Frameworks & Tools:** FastAPI, React
-- **Databases:** PostgreSQL (expert), ORM, currently exploring MongoDB
-- **Frontend:** HTML, CSS, React
-- **Current Learning:** Deep diving into MCP, LangGraph, and Langchain to build advanced AI agents
-- **Problem Solving:** Enthusiastic problem solver, with a track record of tackling and solving many challenging problems during my university life
+Languages & Frameworks: Python (expert), Django REST Framework, C++, FastAPI, React
 
-I played a pivotal role in architecting and developing the **Manufacturing Module** for **Runner Motors Limited** as part of their ERP system, delivering end-to-end solutions tailored for the automotive manufacturing process.
+Databases: PostgreSQL, ORM, and I'm currently exploring MongoDB.
 
-Previously, I developed projects such as **Taskpulse**, **Uplift**, and **A-Chatbot-For-Multibusiness**.
+System Design: I'm gaining hands-on experience with microservices and message queues like Kafka to build distributed systems.
 
-## 🚀 Notable Projects
+AI Development: I'm actively expanding my expertise in the AI field. I have been focusing on RAG (Retrieval-Augmented Generation) and am deep diving into tools like Langchain and LangGraph to build advanced AI agents.
 
-- **Manufacturing Module for Runner Motors Limited (ERP):** Architected and developed a comprehensive manufacturing module to streamline and optimize the automotive manufacturing workflow.
-- **Taskpulse:** Modern task management application.
-- **Uplift:** Non-profit fundraising web app. Collaborated as a frontend developer using HTML, CSS, and React.
-- **A-Chatbot-For-Multibusiness:** Versatile chatbot for multiple businesses.
+Throughout my career, I've had the opportunity to work on a variety of projects, from developing a comprehensive ERP module for a leading automotive company to creating modern web applications. I am an enthusiastic problem-solver, with a strong track record of tackling and solving challenging problems.
 
-## 🛠️ Skills
+Notable Projects
+Moviemate: An end-to-end Django project with a user-friendly movie search interface.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-336791?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-007396?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-brightgreen?style=for-the-badge)
+Live Link: https://moviemate-4img.onrender.com/
 
-## 🧠 Current Focus
+Manufacturing Module for Runner Motors Limited (ERP): I played a pivotal role in architecting and developing this comprehensive ERP module to streamline the automotive manufacturing workflow.
 
-- Expanding expertise in **AI development**, mastering **MCP**, **LangGraph**, and **Langchain** for building next-generation AI agents.
+Taskpulse: A modern task management application.
 
-## ⚽ Hobbies
+A-Chatbot-For-Multibusiness: A versatile chatbot built for multiple businesses.
 
-- Playing football
-- Watching football
+Skills
+<image-card alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" ></image-card>
+<image-card alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" ></image-card>
+<image-card alt="FastAPI" src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi" ></image-card>
+<image-card alt="React" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></image-card>
+<image-card alt="C++" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" ></image-card>
+<image-card alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></image-card>
+<image-card alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></image-card>
+<image-card alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" ></image-card>
+<image-card alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" ></image-card>
+<image-card alt="Langchain" src="https://img.shields.io/badge/Langchain-007396?style=for-the-badge" ></image-card>
+<image-card alt="LangGraph" src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge" ></image-card>
+<image-card alt="Kafka" src="https://img.shields.io/badge/kafka-231f20?style=for-the-badge&logo=apache-kafka&logoColor=white" ></image-card>
 
-## 📈 GitHub Stats
+Current Focus
+I am focused on advancing my skills in AI development and distributed systems. This includes mastering Langchain, LangGraph, and RAG for building intelligent agents, as well as working with Kafka and microservices to design scalable and resilient architectures.
 
-![Zahidur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahidur-Rahman&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahidur-Rahman&layout=compact)
+GitHub Stats
+<image-card alt="Zahidur's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zahidur-Rahman&show_icons=true&theme=default" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahidur-Rahman&layout=compact" ></image-card>
 
-## 📫 How to reach me
+How to reach me
+<image-card alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" ></image-card>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pzahidurtan780550@gmail.com)
-
----
-
-*Let's connect and build something amazing together!*
+Let's connect and build something amazing together!
