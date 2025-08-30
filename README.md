@@ -1,53 +1,38 @@
 Hi there, I'm Zahidur Rahman 👋
+👨‍💻 About Me
+I’m a passionate Backend Developer at Progeny Technologies Ltd, focused on crafting scalable, innovative solutions with a strong foundation in backend systems, ERP systems, and AI-driven technologies. I have solid knowledge in ERP development and MCP, enabling me to build robust applications that integrate seamlessly with enterprise workflows. My expertise spans a diverse tech stack, and I thrive on solving complex problems with clean, efficient code. Here’s a snapshot of my skills and interests:
 
-About Me
-I am a passionate Backend Developer and AI enthusiast with a knack for building robust, scalable solutions and tackling complex challenges. Currently, I am a Backend Developer at Progeny Technologies Ltd, where I specialize in creating innovative systems and solving problems with code.
+Languages: Python, C++
+Frameworks & Tools: Django REST Framework, FastAPI, React, LangChain, LangGraph
+Databases: PostgreSQL (expert), ORM, MongoDB (exploring)
+Frontend: HTML, CSS, React
+AI & ML: Deep diving into Retrieval-Augmented Generation (RAG), LangChain, and LangGraph to build intelligent AI agents; proficient in MCP for advanced AI applications
+Current Learning: Mastering microservices with Kafka and advanced AI agent development
+Problem Solving: Avid problem solver with a proven track record of tackling challenging problems during university and professional projects
 
-My main areas of expertise include:
+I’ve played a key role in developing the Manufacturing Module for Runner Motors Limited, delivering tailored solutions for automotive manufacturing workflows within their ERP system. I’ve also built and deployed projects like Moviemate, a Django-based movie recommendation platform, and contributed to Taskpulse, Uplift, and A-Chatbot-For-Multibusiness.
+🚀 Notable Projects
 
-Languages & Frameworks: Python (expert), Django REST Framework, C++, FastAPI, React
+Moviemate (Live Demo): A Django-based movie recommendation platform built with Django REST Framework, deployed on Render. Features include user authentication, movie search, and personalized recommendations.
+Manufacturing Module for Runner Motors Limited: Architected and developed a comprehensive ERP module to optimize automotive manufacturing workflows.
+Taskpulse: A modern task management application streamlining productivity.
+Uplift: A non-profit fundraising web app where I contributed as a frontend developer using HTML, CSS, and React.
+A-Chatbot-For-Multibusiness: A versatile chatbot designed to serve multiple business use cases.
+Current Project (WIP): Developing a microservices-based application using Kafka for real-time data streaming and processing, integrated with AI-driven features.
 
-Databases: PostgreSQL, ORM, and I'm currently exploring MongoDB.
+🛠️ Skills
 
-System Design: I'm gaining hands-on experience with microservices and message queues like Kafka to build distributed systems.
+🧠 Current Focus
 
-AI Development: I'm actively expanding my expertise in the AI field. I have been focusing on RAG (Retrieval-Augmented Generation) and am deep diving into tools like Langchain and LangGraph to build advanced AI agents.
+Expanding expertise in AI development, mastering MCP, LangGraph, and Langchain for building next-generation AI agents.
 
-Throughout my career, I've had the opportunity to work on a variety of projects, from developing a comprehensive ERP module for a leading automotive company to creating modern web applications. I am an enthusiastic problem-solver, with a strong track record of tackling and solving challenging problems.
+⚽ Hobbies
 
-Notable Projects
-Moviemate: An end-to-end Django project with a user-friendly movie search interface.
+Playing football
+Watching football
 
-Live Link: https://moviemate-4img.onrender.com/
+📈 GitHub Stats
 
-Manufacturing Module for Runner Motors Limited (ERP): I played a pivotal role in architecting and developing this comprehensive ERP module to streamline the automotive manufacturing workflow.
-
-Taskpulse: A modern task management application.
-
-A-Chatbot-For-Multibusiness: A versatile chatbot built for multiple businesses.
-
-Skills
-<image-card alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" ></image-card>
-<image-card alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" ></image-card>
-<image-card alt="FastAPI" src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi" ></image-card>
-<image-card alt="React" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></image-card>
-<image-card alt="C++" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" ></image-card>
-<image-card alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></image-card>
-<image-card alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></image-card>
-<image-card alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" ></image-card>
-<image-card alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" ></image-card>
-<image-card alt="Langchain" src="https://img.shields.io/badge/Langchain-007396?style=for-the-badge" ></image-card>
-<image-card alt="LangGraph" src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge" ></image-card>
-<image-card alt="Kafka" src="https://img.shields.io/badge/kafka-231f20?style=for-the-badge&logo=apache-kafka&logoColor=white" ></image-card>
-
-Current Focus
-I am focused on advancing my skills in AI development and distributed systems. This includes mastering Langchain, LangGraph, and RAG for building intelligent agents, as well as working with Kafka and microservices to design scalable and resilient architectures.
-
-GitHub Stats
-<image-card alt="Zahidur's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zahidur-Rahman&show_icons=true&theme=default" ></image-card>
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahidur-Rahman&layout=compact" ></image-card>
-
-How to reach me
-<image-card alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" ></image-card>
+📫 How to reach me
 
 Let's connect and build something amazing together!
