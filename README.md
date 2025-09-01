@@ -6,7 +6,7 @@ I’m a passionate Backend Developer at Progeny Technologies Ltd, focused on cra
 Here’s a snapshot of my skills and interests:
 
 ### Skills & Interests
-- **Languages**: Python, C++
+- **Languages**: Python, C++,C,JavaScript
 - **Frameworks & Tools**: Django REST Framework, FastAPI, React, LangChain, LangGraph
 - **Databases**: PostgreSQL (expert), ORM, MongoDB (exploring)
 - **Frontend**: HTML, CSS, React
