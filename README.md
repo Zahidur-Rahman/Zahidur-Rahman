@@ -109,13 +109,6 @@ Website: https://confianzabd.com
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahidur-Rahman&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahidur-Rahman&layout=compact&hide_border=true)
-
----
-
 ## Reach Me
 
 - LinkedIn: https://linkedin.com/in/md-zahidur-rahman
