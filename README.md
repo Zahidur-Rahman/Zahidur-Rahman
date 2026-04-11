@@ -1,74 +1,82 @@
-# Zahidur Rahman 👋 👨‍💻
+Zahidur Rahman 👋 👨‍💻
+About Me
 
-## About Me
-I’m a passionate Backend Developer at Progeny Technologies Ltd, focused on crafting scalable, innovative solutions with a strong foundation in backend systems, ERP systems, and AI-driven technologies. I have solid knowledge in ERP development and MCP, enabling me to build robust applications that integrate seamlessly with enterprise workflows. My expertise spans a diverse tech stack, and I thrive on solving complex problems with clean, efficient code.
+I’m a Backend Software Engineer based in Dhaka, specializing in Python (FastAPI) and AI integration. My expertise lies in architecting scalable enterprise solutions, optimizing database performance, and automating complex workflows through OCR, RAG, and Agentic AI. I am passionate about building high-performance systems that bridge the gap between robust software engineering and Deep Learning.
 
-Here’s a snapshot of my skills and interests:
+Currently, I am working at Progeny Technologies Limited, where I focus on manufacturing modules and advanced AI-driven backend performance.
+🛠️ Skills
 
-### Skills & Interests
-- **Languages**: Python, C++,C,JavaScript
-- **Frameworks & Tools**: Django REST Framework, FastAPI, React, LangChain, LangGraph
-- **Databases**: PostgreSQL (expert), ORM, MongoDB (exploring)
-- **Frontend**: HTML, CSS, React
-- **AI & ML**: Deep diving into Retrieval-Augmented Generation (RAG), LangChain, and LangGraph to build intelligent AI agents; proficient in MCP for advanced AI applications.
-- **Current Learning**: Mastering microservices with Kafka and advanced AI agent development
-- **Problem Solving**: Avid problem solver with a proven track record of tackling challenging problems during university and professional projects.
+    Languages: Python, Java, C++, C, SQL, JavaScript 
 
----
+    Backend Frameworks: FastAPI, Django REST Framework, SQLAlchemy, Pydantic 
 
-## Notable Projects
+    AI & Machine Learning: PyTorch, RAG, PaddleOCR, CRNN, LSTM, LangChain 
 
-### 🟢 **Moviemate** ([Live Demo](#))
-A Django-based movie recommendation platform built with Django REST Framework, deployed on Render. Features include:
-- User authentication
-- Movie search
-- Personalized recommendations
+    Databases: PostgreSQL (Expert), MongoDB, Redis 
 
-### 🟢 **Manufacturing Module for Runner Motors Limited**
-Architected and developed a comprehensive ERP module to optimize automotive manufacturing workflows.
+    DevOps & Tools: Docker, Jenkins, AWS, RabbitMQ, Git, Linux, LaTeX 
 
-### 🟢 **Taskpulse**
-A modern task management application streamlining productivity.
+    Frontend: React.js, HTML5, CSS3 
 
-### 🟢 **Uplift**
-A non-profit fundraising web app where I contributed as a frontend developer using HTML, CSS, and React.
+🟠 Current Projects (WIP)
 
-### 🟢 **A-Chatbot-For-Multibusiness**
-A versatile chatbot designed to serve multiple business use cases.
+Invoice Automation Pipeline
 
-### 🟠 **Current Project (WIP)** 
-Developing a microservices-based application using Kafka for real-time data streaming and processing, integrated with AI-driven features.
+    Developing an end-to-end automation system using PaddleOCR to extract data from complex invoice layouts.
 
----
+    Engineering robust data extraction logic to handle various financial document structures efficiently.
 
-## 🛠️ Skills
-- **Backend Development**: Python, Django REST Framework, FastAPI
-- **AI & Machine Learning**: LangChain, LangGraph, Retrieval-Augmented Generation (RAG)
-- **Databases**: PostgreSQL, MongoDB
-- **Frontend**: React, HTML, CSS
-- **Tools**: Kafka, Docker, Git, CI/CD
+Agentic RAG System
 
----
+    Architecting an advanced Agentic RAG framework to facilitate grounded, context-aware queries over processed documents.
 
-## 🧠 Current Focus
-Expanding expertise in AI development, mastering MCP, LangGraph, and Langchain for building next-generation AI agents.
+    Utilizing custom logic to build intelligent agents capable of sophisticated information retrieval.
 
----
+🟢 Notable Projects
 
-## ⚽ Hobbies
-- Playing football
-- Watching football
+CIA (Confianza Integrated Advisory) (confianzabd.com) 
 
----
+    Architected a production-grade CRM using FastAPI and React-TS to automate multi-divisional lead management.
 
-## 📈 GitHub Stats
-![Zahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahidur-Rahman&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+    Engineered a hardened security pipeline with HSTS-enforced SSL, JWT rotation, and Cloudflare Turnstile.
 
----
+BanglaScholar: Multilingual RAG Chatbot 
 
-## 📫 How to reach me
-Let's connect and build something amazing together! Feel free to reach out through any of the following:
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/md-zahidur-rahman-11a191333/)
-- Email: [pzahidurtan780550@gmail.com](mailto:pzahidurtan780550@gmail.com)
+    Built a hybrid FAISS + BM25 retrieval pipeline for high-accuracy Q&A in English and Bangla over scanned textbooks.
 
----
+    Developed a FastAPI WebSocket backend with per-session memory and LLM-based query optimization.
+
+DeepText-CRNN: End-to-End OCR System 
+
+    Designed a custom CRNN architecture using VGG-style CNNs and Bidirectional LSTMs for text recognition.
+
+    Integrated CTC Loss to enable alignment-free training for variable-length text tasks.
+
+Manufacturing Module (Runner Motors Limited) 
+
+    Engineered a comprehensive module to streamline production tracking and inventory management for a major automotive client.
+
+MovieMate 
+
+    Developed a full-stack movie and platform management application featuring advanced search and administrative CRUD functionality.
+
+    Implemented secure authentication using JWT with HTTP-only cookies and deployed the infrastructure on Render.
+
+🧠 Interests & Learning
+
+    DevOps: Currently expanding knowledge in AWS cloud infrastructure and Jenkins for CI/CD pipeline automation.
+
+    Deep Learning: Advancing expertise in custom OCR architectures and sequential context modeling.
+
+    Agentic Frameworks: Mastering autonomous agents for enterprise workflow automation.
+
+    Scalability: Optimizing high-availability infrastructure and high-performance APIs.
+
+📈 GitHub Stats
+📫 Reach Me
+
+    LinkedIn: linkedin.com/in/md-zahidur-rahman 
+
+    Email: pzahidurtan780550@gmail.com 
+
+    GitHub: github.com/Zahidur-Rahman
