@@ -5,7 +5,7 @@ I am a Backend Software Engineer based in Dhaka, Bangladesh, specializing in Pyt
 
 I architect scalable enterprise solutions, optimize database performance, and automate complex workflows through OCR, RAG, and Agentic AI. I am passionate about building high-performance systems that bridge robust software engineering with Deep Learning.
 
-Currently, I work at Progeny Technologies Limited, where I focus on manufacturing modules and advanced AI-driven backend performance.
+I worked at Progeny Technologies Limited, where I focused on manufacturing modules and advanced AI-driven backend performance.
 
 ---
 
