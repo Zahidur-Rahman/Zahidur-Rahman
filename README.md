@@ -22,7 +22,7 @@ I worked at Progeny Technologies Limited, where I focused on manufacturing modul
 
 | Domain | Tech Stack |
 |---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | Backend Frameworks | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge) |
 | AI and Machine Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2C5AA0?style=for-the-badge) ![CRNN](https://img.shields.io/badge/CRNN-0E7490?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-00599C?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) |
 | Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(Expert)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
@@ -50,6 +50,13 @@ Website: https://confianzabd.com
 
 - Architected a production-grade CRM using FastAPI and React-TS to automate multi-divisional lead management
 - Engineered a hardened security pipeline with HSTS-enforced SSL, JWT rotation, and Cloudflare Turnstile
+
+### NanoVLM: Scalable Vision-Language Model
+Demo: https://huggingface.co/spaces/xahidxr7/NanoVLM
+
+- Engineered a CLIP-style Vision-Language Model trained natively on the 591k-pair MS-COCO dataset, achieving a strong 68.7% Recall@5 for image-text retrieval
+- Upgraded the multimodal architecture by integrating Spatial Self-Attention across a 7x7 image patch grid to precisely align visual features with text semantics
+- Optimized PyTorch training using Mixed Precision and deployed a real-time semantic matching web interface to Hugging Face Spaces
 
 ### BanglaScholar: Multilingual RAG Chatbot
 - Built a hybrid FAISS + BM25 retrieval pipeline for high-accuracy Q and A in English and Bangla over scanned textbooks
@@ -86,6 +93,6 @@ Website: https://confianzabd.com
 
 ## Reach Me
 
-- LinkedIn: https://linkedin.com/in/md-zahidur-rahman
+- LinkedIn: https://www.linkedin.com/in/zahidur-rahman7/
 - Email: pzahidurtan780550@gmail.com
 - GitHub: https://github.com/Zahidur-Rahman
