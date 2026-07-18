@@ -22,9 +22,9 @@ I worked at Progeny Technologies Limited, where I focused on manufacturing modul
 
 | Domain | Tech Stack |
 |---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| Backend Frameworks | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge) |
-| AI and Machine Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2C5AA0?style=for-the-badge) ![CRNN](https://img.shields.io/badge/CRNN-0E7490?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-00599C?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Frameworks | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| AI and Machine Learning | ![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2C5AA0?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) |
 | Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(Expert)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 | DevOps and Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
 | Frontend | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
@@ -44,6 +44,16 @@ I worked at Progeny Technologies Limited, where I focused on manufacturing modul
 ---
 
 ## Notable Projects
+
+### TabEdge: Borderless Payment SaaS for Bangladesh
+Website: https://tabedge.com
+
+- Architected a production-grade borderless payment SaaS allowing Bangladeshi freelancers and agencies to capture global card and PayPal payments, and settle them locally
+- Engineered an automated KYC verification pipeline optimized under Vercel's 10-second serverless execution limit, integrating AWS Rekognition for facial biometrics, Google Cloud Vision for NID OCR, and Jaro-Winkler fuzzy matching
+- Designed a developer-first integration API featuring JWT-secured sandbox/live environment credentials, HMAC-signed webhooks, and white-label checkout widgets
+- Hardened payment compliance and security using tokenized Stripe Elements for zero-card-retention PCI compliance and custom Firestore Security Rules for document-level access control
+- Orchestrated a programmatic SEO solution generator using Google Genkit and Gemini to build dynamic, high-ranking landing pages tailored to high-intent regional keywords
+- Built a transaction settlement engine featuring a real-time admin approval console to route payouts directly to local Bangladeshi banks and bKash mobile wallets
 
 ### CIA (Confianza Integrated Advisory)
 Website: https://confianzabd.com
